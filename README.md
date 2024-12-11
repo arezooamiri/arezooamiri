@@ -9,6 +9,9 @@ I'm a developer with experience in backend development using Python and the Djan
 - **Tools:** VS Code, 
 
 ### 🌱 Currently learning
-- **React** 
+- **React**
+### 📊 Total Commits
+![Total Commits](https://github-readme-stats.vercel.app/api?username=arezooamiri&count_private=true&show_icons=true&hide_title=true&hide=prs)
+
 
 
