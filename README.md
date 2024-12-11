@@ -10,8 +10,30 @@ I'm a developer with experience in backend development using Python and the Djan
 
 ### 🌱 Currently learning
 - **React**
-### 📊 Total Commits
-![Total Commits](https://github-readme-stats.vercel.app/api?username=arezooamiri&count_private=true&show_icons=true&hide_title=true&hide=prs)
+
+### 📈 GitHub Stats
+![Arzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arezooamiri&show_icons=true&hide_title=true)
+
+
+### 🧰 Technologies Used
+- **Frontend:** 
+  ![React](https://img.shields.io/badge/React-17.0.2-blue) 
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.1-blue)
+- **Backend:** 
+  ![Python](https://img.shields.io/badge/Python-3.9-blue) 
+  ![Django](https://img.shields.io/badge/Django-3.2-green)
+
+
+- **Version Control:** 
+  ![Git](https://img.shields.io/badge/Git-2.30.0-orange)
+
+
+
+
+
+
+
+
 
 
 
