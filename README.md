@@ -27,6 +27,10 @@ I'm a developer with experience in backend development using Python and the Djan
 - **Version Control:** 
   ![Git](https://img.shields.io/badge/Git-2.30.0-orange)
 
+### 📊 Languages Used in My Projects
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arezooamiri&layout=compact)
+
 
 
 
