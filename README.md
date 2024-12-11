@@ -1,16 +1,14 @@
 ## Hi there 👋
+I'm a developer with experience in backend development using Python and the Django framework. Recently, I've developed a strong interest in frontend development, and I've been working on frontend projects for a while now. I love learning new technologies and challenging myself.
 
-<!--
-**arezooamiri/arezooamiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills & Technologies
 
-Here are some ideas to get you started:
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- - **Version Control:** Git, GitHub
+ - **Backend:** Python, Django, REST APIs
+- **Tools:** VS Code, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- **React** 
+
+
