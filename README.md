@@ -9,7 +9,7 @@ I'm a developer with experience in backend development using Python and the Djan
 - **Tools:** VS Code, 
 
 ### 🌱 Currently learning
-- **React**
+- **Nextjs**
 
 ### 📈 GitHub Stats
 ![Arzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arezooamiri&show_icons=true&hide_title=true)
